@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB**
+- 🌱 I’m currently learning **Socket.io, AWS, and Docker**
 
-- 💬 Ask me about **ReactJs, Javascript**
+- 💬 Ask me about **ReactJs, Javascript, NodeJs, ExpressJs, and MongoDB**
 
 - 📫 How to reach me **subhadipdasrng54@gmail.com**
 
